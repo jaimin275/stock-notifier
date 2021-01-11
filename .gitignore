@@ -1,0 +1,8 @@
+# log files
+debug.log
+geckodriver.log
+
+# exclude environment folder
+env
+webdrivers
+__pycache__
