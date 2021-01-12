@@ -6,3 +6,6 @@ geckodriver.log
 env
 webdrivers
 __pycache__
+
+# exclude editor specific folder and files
+.vscode
